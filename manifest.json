@@ -1,0 +1,37 @@
+{
+  "background_color": "#019970",
+  "display": "standalone",
+  "name": "hc salavat",
+  "orientation": "portrait",
+  "scope": "Placeholder",
+  "short_name": "hc sal",
+  "start_url": "/Timirbaev_Ernest_AC-22-04.html",
+  "theme_color": "#019970",
+  "icons": [
+    {
+      "src": "C:\\Users\\asus\\source\\repos\\web\\icons\\icon96.jpg",
+      "size": "96x96",
+      "type": "icon96.jpg"
+    },
+    {
+      "src": "C:\\Users\\asus\\source\\repos\\web\\icons\\icon144.jpg",
+      "size": "144x144",
+      "type": "icon144.jpg"
+    },
+    {
+      "src": "C:\\Users\\asus\\source\\repos\\web\\icons\\icon192.jpg",
+      "size": "192x192",
+      "type": "icon192.jpg"
+    },
+    {
+      "src": "C:\\Users\\asus\\source\\repos\\web\\icons\\icon256.jpg",
+      "size": "256x256",
+      "type": "icon256.jpg"
+    },
+    {
+      "src": "C:\\Users\\asus\\source\\repos\\web\\icons\\icon512.jpg",
+      "size": "512x512",
+      "type": "icon512.jpg"
+    }
+  ]
+}
