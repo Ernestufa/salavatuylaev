@@ -1,0 +1,179 @@
+﻿.menu {
+    background-color: #149859;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.menu a {
+    float: left;
+    color: white;
+    padding: 25px 25px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.menu button {
+    background-color: white;
+    color: #149859;
+    font-family: Arial;
+    font-size: 16px;
+    float: right;
+    border: 0;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 30px;
+    width: 90px;
+    border-radius: 5px;
+
+}
+
+.menu button:hover {
+    text-decoration: none;
+    color: #013ccb;
+}
+
+.menu a:hover {
+    text-decoration: none;
+    color: #013ccb;
+}
+
+.menu img {
+    padding-top: 10px;
+    padding-left: 12px;
+}
+
+.text {
+    margin-top: 68px;
+    height: 40vw;
+    width: 100vw;
+    background-image: url(images/photo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.8;
+}
+
+.text p {
+    color: white;
+    padding-top: 100px;
+    font-size: 3vw;
+    font-family: 'Signika', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #149859;
+    padding-top: 10px;
+    font-family: 'Signika', sans-serif;
+    text-align: center;
+}
+
+.history {
+    padding-top: 20px;
+    height: 65vw;
+    width: 100%;
+    background-image: url(images/history.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.text1 {
+    padding-left: 2vw;
+    padding-top: 2vw;
+    color: white;
+    font-size: 1.6vw;
+    font-family: 'Signika', sans-serif;
+    text-align: justify;
+}
+
+.text2 {
+    padding-left: 2vw;
+    padding-top: 2vw;
+    padding-right: 2vw;
+    margin-top: 2vw;
+    color: white;
+    font-size: 1.6vw;
+    font-family: 'Signika', sans-serif;
+    text-align: justify;
+}
+
+.flex1 {
+    display: flex;
+    padding: 0 15vw;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.flex2 {
+    display: flex;
+    padding: 0 5vw;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.flex2 img {
+    width: 40vw;
+    height: 50vw;
+}
+
+.flex1 p {
+    padding-bottom: 1%;
+    font-family: 'Signika', sans-serif;
+    font-size: 1.5vw;
+    border-bottom: 3px solid #149859;
+    text-align: center;
+}
+
+.old {
+    width: 40vw;
+    height: 28vw;
+    padding: 1.6vw;
+}
+
+.hockey {
+    width: 40vw;
+    height: 28vw;
+    padding: 2vw;
+}
+
+.back1 {
+    background: rgba(20, 152, 89, 0.5);
+    height: 28vw;
+    width: 60%;
+    margin-left: 2vw;
+}
+
+.back2 {
+    margin-left: 40vw; 
+    background: rgba(20, 152, 89, 0.5);
+    height: 18.7vw;
+    height: 28vw;
+    width: 45vw;
+}
+
+.contacts {
+    flex: 0 0 auto;
+    background-color: #2a2a37;
+    width: 100%;
+    height: 120px;
+}
+
+.contacts p {
+    float: left;
+    color: white;
+    font-size: 16px;
+    font-family: Arial;
+    padding-top: 30px;
+    padding-left: 50px;
+}
+
+.contacts p a {
+    color: white;
+}
+
+.contacts p a:hover {
+    color: #149859;
+}
