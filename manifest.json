@@ -12,27 +12,27 @@
     {
       "src": "icons/icon96.jpg",
       "size": "96x96",
-      "type": "icon96.jpg"
+      "type": "icon96/jpg"
     },
     {
       "src": "icons/icon144.jpg",
       "size": "144x144",
-      "type": "icon144.jpg"
+      "type": "icon144/jpg"
     },
     {
       "src": "icons/icon192.jpg",
       "size": "192x192",
-      "type": "icon192.jpg"
+      "type": "icon192/jpg"
     },
     {
       "src": "icons/icon256.jpg",
       "size": "256x256",
-      "type": "icon256.jpg"
+      "type": "icon256/jpg"
     },
     {
       "src": "icons/icon512.jpg",
       "size": "512x512",
-      "type": "icon512.jpg",
+      "type": "icon512/jpg",
       "purpose": "maskable"
     }
   ]
