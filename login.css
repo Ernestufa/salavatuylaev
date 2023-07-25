@@ -3,26 +3,22 @@
     position: fixed;
     top: 0;
     width: 100%;
-    height: 68px;
-}
-
-.menu img {
-    padding-top: 10px;
-    padding-left: 12px;
+    height: 5.5vw;
 }
 
 .menu button {
     background-color: white;
     color: #149859;
     font-family: Arial;
-    font-size: 16px;
+    font-size: 1.3vw;
     float: right;
     border: 0;
-    margin-top: 20px;
-    margin-right: 40px;
-    height: 30px;
-    width: 90px;
-    border-radius: 5px;
+    margin-top: 1.6vw;
+    margin-right: 2.3vw;
+    height: 2.4vw;
+    width: 7vw;
+    border-radius: 0.5vw;
+
 }
 
 .menu button:hover {
@@ -30,8 +26,15 @@
     color: #013ccb;
 }
 
+.menu img {
+    width: 6vw;
+    height: 4vw;
+    padding-top: 0.9vw;
+    padding-left: 0.9vw;
+}
+
 .login {
-    min-height: 350px;
+    min-height: 400px;
     margin-left: 30vw;
 }
 
@@ -65,7 +68,7 @@
 }
 
 .first p {
-    padding-left: 3.3vw;
+    padding-left: 3.4vw;
 }
 
 .first input {
@@ -90,18 +93,19 @@ h1 {
 }
 
 .contacts {
+    flex: 0 0 auto;
     background-color: #2a2a37;
     width: 100%;
-    height: 120px;
+    height: 10vw;
 }
 
 .contacts p {
     float: left;
     color: white;
-    font-size: 16px;
+    font-size: 1.3vw;
     font-family: Arial;
-    padding-top: 30px;
-    padding-left: 50px;
+    padding-top: 2.3vw;
+    padding-left: 3vw;
 }
 
 .contacts p a {
